@@ -20,8 +20,4 @@
 ## Iniciar proyecto
 
 ```npm start```
-# react_whislist
-# react_whislist
-# react_whislist
-# wishlist
-# wishlist_react
+
