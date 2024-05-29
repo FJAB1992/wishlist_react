@@ -4,6 +4,9 @@
 ## Instalar librería UUID
 ```npm i uuid```
 
+## Actualizar dependencias menores
+```npm update```
+
 ----------------------------------------------
 ## Agregar SVG core (Fontawesome)
 ```npm i --save @fortawesome/fontawesome-svg-core```
