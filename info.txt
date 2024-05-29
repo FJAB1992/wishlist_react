@@ -1,8 +1,8 @@
 import { v4 as uuidv4 } from 'uuid';
 
-Este import permite utilizar la función v4 de la biblioteca uuid. uuid es una biblioteca que proporciona funciones para la generación de identificadores únicos universales (UUID) según las especificaciones del estándar UUID.
+Este import permite utilizar la funciÃ³n v4 de la biblioteca uuid. uuid es una biblioteca que proporciona funciones para la generaciÃ³n de identificadores Ãºnicos universales (UUID) segÃºn las especificaciones del estÃ¡ndar UUID.
 
-En este caso específico, { v4 as uuidv4 } utiliza la sintaxis de desestructuración de objetos de JavaScript para importar la función v4 de uuid con un alias uuidv4. Esto significa que, cuando quieras generar un UUID en tu código, puedes usar uuidv4() para llamar a la función v4 de la biblioteca uuid.
+En este caso especÃ­fico, { v4 as uuidv4 } utiliza la sintaxis de desestructuraciÃ³n de objetos de JavaScript para importar la funciÃ³n v4 de uuid con un alias uuidv4. Esto significa que, cuando quieras generar un UUID en tu cÃ³digo, puedes usar uuidv4() para llamar a la funciÃ³n v4 de la biblioteca uuid.
 
 Por ejemplo:
 
@@ -11,4 +11,10 @@ Copy code
 import { v4 as uuidv4 } from 'uuid';
 
 const myUniqueId = uuidv4();
-Esto generará un UUID único utilizando la función v4 de la biblioteca uuid y lo almacenará en la variable myUniqueId.
+Esto generarÃ¡ un UUID Ãºnico utilizando la funciÃ³n v4 de la biblioteca uuid y lo almacenarÃ¡ en la variable myUniqueId.
+
+---------------------------------------------------------------
+
+DEPENDECIAS DEPRECADAS
+
+--------------------------------------------------------------
